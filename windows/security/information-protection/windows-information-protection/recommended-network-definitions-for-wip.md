@@ -23,11 +23,11 @@ We recommend that you add the following URLs to the Enterprise Cloud Resources a
 
 ## Recommended Enterprise Cloud Resources
 
-This table includes the recommended URLs to add to your Enterprise Cloud Resources network setting, based on the apps you use in your organization.
+This table includes the recommended URLs to add to your Enterprise Cloud Resources network setting, based on the apps you use in your organization. 
 
 |If your organization uses... |Add these entries to your Enterprise Cloud Resources network setting<br>(Replace "contoso" with your domain name(s)|
 |-----------------------------|---------------------------------------------------------------------|
-|Sharepoint Online |- `contoso.sharepoint.com`<br/>- `contoso-my.sharepoint.com`<br/>- `contoso-files.sharepoint.com` |
+|Sharepoint Online |- `contoso.sharepoint.com (mcas.ms)`<br/>- `contoso-my.sharepoint.com (mcas.ms)`<br/>- `contoso-files.sharepoint.com (mcas.ms)` |
 |Yammer |- `www.yammer.com`<br/>- `yammer.com`<br/>- `persona.yammer.com` |
 |Outlook Web Access (OWA) |- `outlook.office.com`<br/>- `outlook.office365.com`<br/>- `attachments.office.net` |
 |Microsoft Dynamics |`contoso.crm.dynamics.com` |
